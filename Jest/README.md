@@ -1,6 +1,8 @@
 ## Tips
 
-### Vanila
+### jestでESMを読み込めるようにする
+
+#### Vanila
 ```
 npm install -D jest cross-env
 
@@ -10,7 +12,7 @@ npm install -D jest cross-env
   },
 ```
 
-### TypeScript
+#### TypeScript
 
 ```
 npm i -D jest @types/jest ts-jest
